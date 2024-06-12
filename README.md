@@ -10,7 +10,7 @@
 
 # Kurulum/Setup
 
-    git clone https://github.com/delosemre/ktodo
+    git clone https://github.com/emreylmzcom/ktodo
     cd ktodo
     pip install -r requirements.txt
     sudo python3 ktodo.py
@@ -23,15 +23,13 @@
 [EN] Note: This tool may crash the operating system. Don't forget to remove the kali repositories after use!
 
 ## İletişim/Contact
--   [delosemre@outlook.com](mailto:delosemre@outlook.com)  
     
 -   [emre@emreylmz.com](mailto:emre@emreylmz.com)  
     
 -   [https://emreylmz.com](https://emreylmz.com)  
     
--   [https://t.me/delosemre](https://t.me/delosemre)  
+-   [https://t.me/delosemre](https://t.me/S0lidNight)  
     
--   [https://twitter.com/delosemre](https://twitter.com/delosemre)
 
 
 ## Neleri indiriyor? / What is it downloading?
